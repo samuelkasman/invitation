@@ -29,9 +29,8 @@ const Home = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              SP Resort
+              <p>SP Resort</p>
             </a>
-
             <p>Pietna 11, 010 04 Žilina</p>
           </div>
 
