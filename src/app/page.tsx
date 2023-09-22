@@ -32,12 +32,12 @@ const Home = () => {
               SP Resort
             </a>
 
-            <p>Pietna 11, 010 04 Žilina, Slovakia</p>
+            <p>Pietna 11, 010 04 Žilina</p>
           </div>
 
           <div className={styles.card}>
             <h2>Čo si obliecť?</h2>
-            <p>Čokoľvek v čom Vám je pohodlne, nemusíte mat kravaty a opatky</p>
+            <p>Čokoľvek v čom Vám je pohodlne, nemusíte mat kravaty a opätky</p>
           </div>
 
           <div className={styles.card}>
