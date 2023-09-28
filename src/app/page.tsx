@@ -36,7 +36,7 @@ const Home = () => {
 
           <div className={styles.card}>
             <h2>Čo si obliecť?</h2>
-            <p>Čokoľvek v čom Vám je pohodlne, nemusíte mat kravaty a opätky</p>
+            <p>Čokoľvek v čom Vám je pohodlne</p>
           </div>
 
           <div className={styles.card}>
